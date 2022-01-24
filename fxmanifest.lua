@@ -1,0 +1,12 @@
+fx_version 'cerulean'
+game 'gta5'
+
+author 'SerumXD'
+description 'Car FxManifest'
+version '1.0.0'
+
+files {
+	'handling.meta',
+}
+
+data_file 'HANDLING_FILE'				'handling.meta'
