@@ -8,10 +8,10 @@
         <Item>
           <indices content="char_array">
             134
-            0
             134
-            0
-            0
+            134
+            156
+            156
             156
           </indices>
           <liveries>
@@ -24,67 +24,7 @@
             <Item value="false" />
             <Item value="false" />
           </liveries>
-        </Item>	
-        <Item>
-          <indices content="char_array">
-            0
-            0
-            0
-            0
-            0
-            156
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>	
-        <Item>
-          <indices content="char_array">
-            125
-            255
-            0
-            0
-            0
-            156
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>	
-        <Item>
-          <indices content="char_array">
-            255
-            255
-            0
-            0
-            0
-            156
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>	
+        </Item>
       </colors>
       <kits>
         <Item>1490_champion_modkit</Item>
@@ -100,6 +40,238 @@
       </plateProbabilities>
       <lightSettings value="178" />
       <sirenSettings value="0" />
-    </Item> 
+    </Item>
+    <Item>
+      <modelName>viseris</modelName>
+      <colors>		  
+        <Item>
+          <indices content="char_array">
+            8 
+            0 
+            134 
+            112
+            93
+            0		
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>		
+      </colors>
+      <kits>
+        <Item>1278_viseris_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="127" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>buffalo4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            27 
+            0 
+            28 
+            0
+            93
+            134		
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1482_buffalo4_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>ignus</modelName>
+      <colors>
+		    <Item>
+          <indices content="char_array">
+            9
+            27
+            62
+            6 
+	          8
+	          156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1455_ignus_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="172" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>nero</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            70 
+            64 
+            18 
+            112
+            63
+            65
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item> 
+      </colors>
+      <kits>
+        <Item>1206_nero_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="105" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>t20</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            3 
+            3
+            3
+            0 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1161_t20_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="93" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>cypher</modelName>
+      <colors>
+		<Item>
+          <indices content="char_array">
+            35
+            3
+            88
+            0
+	        27
+	        156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1460_cypher_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="170" />
+      <sirenSettings value="0" />
+    </Item>  
   </variationData>
 </CVehicleModelInfoVariation>
