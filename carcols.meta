@@ -118,13 +118,6 @@
         </Item>
         <Item>
           <identifier />
-          <modifier value="5" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
-        <Item>
-          <identifier />
           <modifier value="10" />
           <audioApply value="1.000000" />
           <weight value="0" />
@@ -140,6 +133,13 @@
         <Item>
           <identifier />
           <modifier value="30" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_SUSPENSION</type>
