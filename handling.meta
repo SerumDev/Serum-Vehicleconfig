@@ -9,13 +9,13 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
       <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="3.000000" />
-      <fClutchChangeRateScaleDownShift value="3.000000" />
+      <fClutchChangeRateScaleUpShift value="7.000000" />
+      <fClutchChangeRateScaleDownShift value="7.000000" />
       <fInitialDriveMaxFlatVel value="250.000000" />
       <fBrakeForce value="1.000000" />
       <fBrakeBiasFront value="0.500000" />
@@ -59,6 +59,7 @@
           <fBackEndPopUpCarImpulseMult value="0.100000" />
           <fBackEndPopUpBuildingImpulseMult value="0.030000" />
           <fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+          <strAdvancedFlags>C408000</strAdvancedFlags>
         </Item>
         <Item type="NULL" />
         <Item type="NULL" />
@@ -71,7 +72,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -134,7 +135,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -197,7 +198,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -260,7 +261,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -323,7 +324,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.00000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -386,7 +387,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -449,7 +450,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -512,7 +513,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -638,7 +639,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -701,7 +702,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.00000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.375000" />
@@ -764,7 +765,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.400000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -827,7 +828,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -890,7 +891,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -960,7 +961,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.375000" />
@@ -1023,7 +1024,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.225000" z="-0.2000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.500000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -1086,7 +1087,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.45000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -1149,7 +1150,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -1212,7 +1213,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.180000" z="-0.150000" />
-      <vecInertiaMultiplier x="1.000000" y="1.500000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.375000" />
@@ -1275,7 +1276,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.00000" z="-0.040000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.375000" />
@@ -1337,8 +1338,8 @@
       <fMass value="1500.000000" />
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
-      <vecCentreOfMassOffset x="0.000000" y="-0.100000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.600000" />
+      <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.200000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -1353,7 +1354,7 @@
       <fTractionCurveMax value="2.600000" />
       <fTractionCurveMin value="2.500000" />
       <fTractionCurveLateral value="30.000000" />
-      <fTractionSpringDeltaMax value="0.020000" />
+      <fTractionSpringDeltaMax value="0.150000" />
       <fLowSpeedTractionLossMult value="0.000000" />
       <fCamberStiffnesss value="0.000000" />
       <fTractionBiasFront value="0.500000" />
@@ -1361,8 +1362,8 @@
       <fSuspensionForce value="2.500000" />
       <fSuspensionCompDamp value="1.600000" />
       <fSuspensionReboundDamp value="0.400000" />
-      <fSuspensionUpperLimit value="0.080000" />
-      <fSuspensionLowerLimit value="-0.100000" />
+      <fSuspensionUpperLimit value="0.055000" />
+      <fSuspensionLowerLimit value="-0.075000" />
       <fSuspensionRaise value="0.000000" />
       <fSuspensionBiasFront value="0.500000" />
       <fAntiRollBarForce value="0.000000" />
@@ -1401,7 +1402,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.10000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -1464,7 +1465,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -1527,7 +1528,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.25000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -1590,7 +1591,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.500000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="1" />
       <fInitialDriveForce value="0.375000" />
@@ -1653,7 +1654,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.02000" z="-0.030000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.200000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -1716,7 +1717,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="-0.1000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.500000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -1842,7 +1843,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -1905,7 +1906,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.500000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -2027,7 +2028,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.200000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="1" />
       <fInitialDriveForce value="0.375000" />
@@ -2090,7 +2091,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.400000" z="1.60000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -2153,7 +2154,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="1" />
       <fInitialDriveForce value="0.375000" />
@@ -2216,7 +2217,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.350000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.375000" />
@@ -2279,7 +2280,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.750000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.375000" />
@@ -2342,7 +2343,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.750000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.375000" />
@@ -2405,7 +2406,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.200000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -2468,7 +2469,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.200000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -2531,7 +2532,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -2594,7 +2595,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.400000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -2657,7 +2658,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.500000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -2720,7 +2721,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.070000" z="-0.100000" />
-      <vecInertiaMultiplier x="1.200000" y="1.300000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -2783,7 +2784,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.200000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -2846,13 +2847,13 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.500000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
       <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="3.500000" />
-      <fClutchChangeRateScaleDownShift value="3.500000" />
+      <fClutchChangeRateScaleUpShift value="6.500000" />
+      <fClutchChangeRateScaleDownShift value="6.500000" />
       <fInitialDriveMaxFlatVel value="200.000000" />
       <fBrakeForce value="1.000000" />
       <fBrakeBiasFront value="0.500000" />
@@ -2875,8 +2876,8 @@
       <fSuspensionBiasFront value="0.500000" />
       <fAntiRollBarForce value="0.000000" />
       <fAntiRollBarBiasFront value="0.700000" />
-      <fRollCentreHeightFront value="0.150000" />
-      <fRollCentreHeightRear value="0.100000" />
+      <fRollCentreHeightFront value="0.250000" />
+      <fRollCentreHeightRear value="0.200000" />
       <fCollisionDamageMult value="0.800000" />
       <fWeaponDamageMult value="1.000000" />
       <fDeformationDamageMult value="0.800000" />
@@ -2909,7 +2910,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -2972,7 +2973,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -3035,7 +3036,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -3098,7 +3099,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -3161,7 +3162,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.200000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -3224,7 +3225,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.300000" />
@@ -3287,7 +3288,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.00000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -3350,7 +3351,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.00000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -3413,7 +3414,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -3476,7 +3477,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.400000" z="1.60000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="8" />
       <fInitialDriveForce value="0.375000" />
@@ -3539,7 +3540,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.50000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -3602,7 +3603,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.500000" z="1.650000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.375000" />
@@ -3665,7 +3666,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -3728,7 +3729,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.03500" z="0.00000" />
-      <vecInertiaMultiplier x="1.200000" y="1.300000" z="1.65000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.375000" />
@@ -3791,7 +3792,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.300000" y="1.500000" z="1.250000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -3854,7 +3855,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.025000" />
-      <vecInertiaMultiplier x="1.200000" y="1.350000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -3917,7 +3918,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.450000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -3980,7 +3981,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.000000" />
-      <vecInertiaMultiplier x="1.400000" y="1.350000" z="1.550000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.375000" />
@@ -4043,7 +4044,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.0000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -4088,7 +4089,7 @@
       <strHandlingFlags>20002</strHandlingFlags>
       <strDamageFlags>0</strDamageFlags>
       <AIHandling>AVERAGE</AIHandling>
-      <fPopUpLightRotation value="39.0000"/>
+      <fPopUpLightRotation value="40.0000"/>
       <SubHandlingData>
         <Item type="CCarHandlingData">
           <fBackEndPopUpCarImpulseMult value="0.100000" />
@@ -4107,7 +4108,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -4170,7 +4171,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.00000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="8" />
       <fInitialDriveForce value="0.375000" />
@@ -4233,7 +4234,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.400000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.375000" />
@@ -4359,7 +4360,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="1.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.31000" />
@@ -4422,7 +4423,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="00.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.500000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -4485,7 +4486,7 @@
       <fInitialDragCoeff value="25.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.250000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="1.800000" />
@@ -4548,7 +4549,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.575000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="8" />
       <fInitialDriveForce value="0.375000" />
@@ -4611,7 +4612,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.400000" z="1.10000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -4674,7 +4675,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.05000" z="-0.2000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="1" />
       <fInitialDriveForce value="0.375000" />
@@ -4737,7 +4738,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.300000" z="1.800000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -4800,7 +4801,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.02000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="8" />
       <fInitialDriveForce value="0.375000" />
@@ -4863,7 +4864,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -4926,7 +4927,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.375000" />
@@ -4989,7 +4990,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.350000" z="1.650000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -5052,7 +5053,7 @@
       <fInitialDragCoeff value="9.50000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -5117,7 +5118,7 @@
       <fDownforceModifier value="150.000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.05000" z="0.100000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.100000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.315000" />
@@ -5180,7 +5181,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -5244,7 +5245,7 @@
       <fDownforceModifier value="200.000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.0000" z="-0.43000" />
-      <vecInertiaMultiplier x="1.400000" y="1.300000" z="1.0500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.200000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.320000" />
@@ -5310,7 +5311,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.200000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -5373,7 +5374,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.100000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -5436,7 +5437,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.500000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.375000" />
@@ -5499,7 +5500,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.00000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.360000" z="1.10000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -5626,7 +5627,7 @@
       <fDownforceModifier value="250.000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.0500" z="-0.5000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="2" />
       <fInitialDriveForce value="0.66000" />
@@ -5690,7 +5691,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="-0.250000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="1.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.230000" />
@@ -5753,7 +5754,7 @@
       <fInitialDragCoeff value="11.60000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.100000" z="0.2500000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.100000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.190000" />
@@ -5879,7 +5880,7 @@
       <fInitialDragCoeff value="11.00000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.050000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.100000" z="1.200000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.270000" />
@@ -6001,17 +6002,17 @@
 
     <Item type="CHandlingData">
       <handlingName>KANJO</handlingName>
-      <fMass value="1150.000000" />
+      <fMass value="1250.000000" />
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.00000" />
-      <vecInertiaMultiplier x="1.000000" y="1.500000" z="1.40000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="1.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
       <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="4.000000" />
-      <fClutchChangeRateScaleDownShift value="4.000000" />
+      <fClutchChangeRateScaleUpShift value="7.000000" />
+      <fClutchChangeRateScaleDownShift value="7.000000" />
       <fInitialDriveMaxFlatVel value="200.000000" />
       <fBrakeForce value="1.000000" />
       <fBrakeBiasFront value="0.500000" />
@@ -6057,7 +6058,7 @@
           <fBackEndPopUpCarImpulseMult value="0.100000" />
           <fBackEndPopUpBuildingImpulseMult value="0.030000" />
           <fBackEndPopUpMaxDeltaSpeed value="0.600000" />
-          <!-- <strAdvancedFlags>4008000</strAdvancedFlags> -->
+          <strAdvancedFlags>C408000</strAdvancedFlags>
         </Item>
         <Item type="NULL" />
         <Item type="NULL" />
@@ -6130,7 +6131,7 @@
       <fInitialDragCoeff value="10.5000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.08000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.30000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="1.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.234000" />
@@ -6352,7 +6353,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.140000" z="-0.250000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.270000" />
@@ -6820,7 +6821,7 @@
       <fInitialDragCoeff value="10.500000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="-0.150000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.150000" />
@@ -6898,7 +6899,7 @@
       <fInitialDragCoeff value="9.750000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.280000" />
-      <vecInertiaMultiplier x="1.000000" y="1.500000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.290000" />
@@ -6976,7 +6977,7 @@
       <fInitialDragCoeff value="9.750000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.280000" />
-      <vecInertiaMultiplier x="1.000000" y="1.500000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.290000" />
@@ -7054,7 +7055,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.050000" z="-0.250000" />
-      <vecInertiaMultiplier x="1.000000" y="1.500000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.310000" />
@@ -7132,7 +7133,7 @@
       <fInitialDragCoeff value="9.400000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.060000" z="-0.10000" />
-      <vecInertiaMultiplier x="1.000000" y="1.500000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.320000" />
@@ -7391,7 +7392,7 @@
       <fInitialDragCoeff value="15.750000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.150000" z="-0.100000" />
-      <vecInertiaMultiplier x="1.100000" y="1.100000" z="1.100000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.275000" />
@@ -7469,7 +7470,7 @@
       <fInitialDragCoeff value="8.95000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.050000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.100000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.312500" />
@@ -7548,7 +7549,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.260000" z="0.120000" />
-      <vecInertiaMultiplier x="1.450000" y="1.250000" z="1.30000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.335000" />
@@ -7608,7 +7609,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.150000" z="1.650000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.335000" />
@@ -7671,7 +7672,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.020000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.500000" z="1.585000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="3" />
       <fInitialDriveForce value="0.335000" />
@@ -7734,7 +7735,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.800000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.290000" />
@@ -7798,7 +7799,7 @@
       <fPercentSubmerged value="85.000000" />
       <!-- <fDownforceModifier value="200" /> -->
       <vecCentreOfMassOffset x="0.000000" y="0.05000" z="0.0000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.780000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -7887,7 +7888,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.10000" z="0.200000" />
-      <vecInertiaMultiplier x="1.400000" y="2.000000" z="1.800000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.335000" />
@@ -7950,7 +7951,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.100000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.800000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.335000" />
@@ -8013,7 +8014,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.100000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.800000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.335000" />
@@ -8076,7 +8077,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.335000" />
@@ -8139,7 +8140,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.335000" />
@@ -8202,7 +8203,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.00000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.335000" />
@@ -8265,7 +8266,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.100000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.350000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.00000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.335000" />
@@ -8326,7 +8327,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.100000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="2.000000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.335000" />
@@ -8389,7 +8390,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.0000" z="-0.150000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -8453,7 +8454,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.00000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -8516,7 +8517,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="-0.05000" />
-      <vecInertiaMultiplier x="1.100000" y="1.400000" z="1.650000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.335000" />
@@ -8579,7 +8580,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.280000" />
@@ -8642,7 +8643,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.200000" />
@@ -8705,7 +8706,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.300000" />
@@ -8768,7 +8769,7 @@
       <fInitialDragCoeff value="10.750000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.04000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.36000" />
@@ -8831,7 +8832,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.20000" z="0.00000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.290000" />
@@ -8970,7 +8971,7 @@
       <fInitialDragCoeff value="10.500000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.100000" z="0.000000" />
-      <vecInertiaMultiplier x="1.100000" y="1.100000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.300000" />
@@ -9033,7 +9034,7 @@
       <fInitialDragCoeff value="10.500000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.310000" />
@@ -9097,7 +9098,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.100000" z="0.100000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.250000" />
@@ -9160,7 +9161,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.280000" />
@@ -9223,7 +9224,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.400000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.220000" />
@@ -9286,7 +9287,7 @@
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.280000" />
@@ -9349,7 +9350,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.280000" />
@@ -9412,7 +9413,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.282000" />
@@ -9538,7 +9539,7 @@
       <fInitialDragCoeff value="11.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.750000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.330000" />
@@ -9601,7 +9602,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.210000" />
@@ -9664,7 +9665,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.211000" />
@@ -9727,7 +9728,7 @@
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.180000" />
@@ -9853,7 +9854,7 @@
       <fInitialDragCoeff value="8.20000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.350000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="8" />
       <fInitialDriveForce value="0.342500" />
@@ -9916,7 +9917,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.320000" />
@@ -9979,7 +9980,7 @@
       <fInitialDragCoeff value="8.75000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.10000" z="-0.250000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.325000" />
@@ -10048,7 +10049,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.1000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.550000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.320000" />
@@ -10112,7 +10113,7 @@
       <fInitialDragCoeff value="10.7500" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.0750" z="-0.22500" />
-      <vecInertiaMultiplier x="1.000000" y="1.60000" z="1.70000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="8" />
       <fInitialDriveForce value="0.33900" />
@@ -10175,7 +10176,7 @@
       <fInitialDragCoeff value="9.200000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.18000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.400000" z="1.10000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.375000" />
@@ -10240,7 +10241,7 @@
       <fInitialDragCoeff value="7.750000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.0000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.800000" z="1.800000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.265000" />
@@ -10303,7 +10304,7 @@
       <fInitialDragCoeff value="7.750000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.0000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.800000" z="1.800000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.260000" />
@@ -10366,7 +10367,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.850000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.235000" />
@@ -10429,7 +10430,7 @@
       <fInitialDragCoeff value="7.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.000000" />
-      <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="1.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.140000" />
@@ -10492,7 +10493,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.200000" />
@@ -10555,7 +10556,7 @@
       <fInitialDragCoeff value="8.200000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.100000" y="1.200000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.20000" />
@@ -10618,7 +10619,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.800000" z="1.800000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.260000" />
@@ -10681,7 +10682,7 @@
       <fInitialDragCoeff value="8.300000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.100000" z="-0.050000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="1.000000" />
       <nInitialDriveGears value="1" />
       <fInitialDriveForce value="0.100000" />
@@ -10744,7 +10745,7 @@
       <fInitialDragCoeff value="11.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.070000" />
-      <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.245000" />
@@ -10807,7 +10808,7 @@
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.200000" />
@@ -10870,7 +10871,7 @@
       <fInitialDragCoeff value="9.300000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.1000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.600000" z="1.850000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.233000" />
@@ -10933,7 +10934,7 @@
       <fInitialDragCoeff value="10.700000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.070000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.200000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="8" />
       <fInitialDriveForce value="0.353500" />
@@ -10997,7 +10998,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.270000" />
@@ -11060,7 +11061,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.270000" />
@@ -11123,7 +11124,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.800000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.600000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.200000" />
@@ -11186,7 +11187,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.150000" />
-      <vecInertiaMultiplier x="1.200000" y="1.500000" z="2.000000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.600000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.200000" />
@@ -11249,7 +11250,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.600000" z="2.000000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.600000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.190000" />
@@ -11312,7 +11313,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.050000" />
-      <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.100000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.170000" />
@@ -11375,7 +11376,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.400000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.200000" />
@@ -11438,7 +11439,7 @@
       <fInitialDragCoeff value="7.500000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.600000" z="1.900000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.200000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.180000" />
@@ -11501,7 +11502,7 @@
       <fInitialDragCoeff value="11.500000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="8" />
       <fInitialDriveForce value="0.320000" />
@@ -11564,7 +11565,7 @@
       <fInitialDragCoeff value="10.8000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.0000" z="0.22500" />
-      <vecInertiaMultiplier x="1.000000" y="1.55000" z="1.60000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="8" />
       <fInitialDriveForce value="0.33500" />
@@ -11627,7 +11628,7 @@
       <fInitialDragCoeff value="14.350000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.2900" />
-      <vecInertiaMultiplier x="1.55000" y="1.600000" z="1.50000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.52000" />
       <nInitialDriveGears value="1" />
       <fInitialDriveForce value="0.231500" />
@@ -11690,7 +11691,7 @@
       <fInitialDragCoeff value="7.95000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.170000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.350000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.440000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.324000" />
@@ -11753,7 +11754,7 @@
       <fInitialDragCoeff value="8.400000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.600000" />
       <nInitialDriveGears value="7" />
       <fInitialDriveForce value="0.302500" />
@@ -11880,7 +11881,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.040000" z="-0.200000" />
-      <vecInertiaMultiplier x="1.100000" y="1.100000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.280000" />
@@ -11943,7 +11944,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.425000" />
-      <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.450000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.260000" />
@@ -12006,7 +12007,7 @@
       <fInitialDragCoeff value="13.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="-0.050000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.30000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.350000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.2800" />
@@ -12132,7 +12133,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.00000" />
-      <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.25500" />
@@ -12195,7 +12196,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.050000" />
-      <vecInertiaMultiplier x="1.200000" y="1.400000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.300000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.200000" />
@@ -12258,7 +12259,7 @@
       <fInitialDragCoeff value="10.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.00000" />
-      <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.25000" />
@@ -12384,7 +12385,7 @@
       <fInitialDragCoeff value="12.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.150000" z="0.050000" />
-      <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.27000" />
@@ -12447,7 +12448,7 @@
       <fInitialDragCoeff value="11.75000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.160000" z="-0.030000" />
-      <vecInertiaMultiplier x="1.300000" y="1.45000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.2950" />
@@ -12510,7 +12511,7 @@
       <fInitialDragCoeff value="10.55000" />
       <fPercentSubmerged value="105.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.180000" z="-0.17000" />
-      <vecInertiaMultiplier x="1.200000" y="1.3000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.00000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.33250" />
@@ -12573,7 +12574,7 @@
       <fInitialDragCoeff value="11.00000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="-0.100000" />
-      <vecInertiaMultiplier x="1.100000" y="1.100000" z="1.100000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.250000" />
@@ -12652,7 +12653,7 @@
       <fInitialDragCoeff value="30.000000" />
       <fPercentSubmerged value="105.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.110000" z="-0.15000" />
-      <vecInertiaMultiplier x="1.100000" y="1.10000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="3" />
       <fInitialDriveForce value="0.47500" />
@@ -12716,7 +12717,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.200000" z="1.250000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.200000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.200000" />
@@ -12779,7 +12780,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.450000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.180000" />
@@ -12842,7 +12843,7 @@
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.160000" />
@@ -12905,7 +12906,7 @@
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.300000" z="0.500000" />
-      <vecInertiaMultiplier x="1.400000" y="1.400000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="1.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.120000" />
@@ -12968,7 +12969,7 @@
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.300000" />
@@ -13031,7 +13032,7 @@
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="1.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.130000" />
@@ -13094,7 +13095,7 @@
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="-0.1000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.500000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.600000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.150000" />
@@ -13157,7 +13158,7 @@
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.170000" />
@@ -13220,7 +13221,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.275000" />
-      <vecInertiaMultiplier x="1.300000" y="1.600000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.500000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.180000" />
@@ -13283,7 +13284,7 @@
       <fInitialDragCoeff value="13.000000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.800000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.100000" />
@@ -13347,7 +13348,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="-0.200000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.375000" />
@@ -13411,7 +13412,7 @@
       <fInitialDragCoeff value="11.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.08000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.750000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.240000" />
@@ -13474,7 +13475,7 @@
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.100000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.260000" />
@@ -13537,7 +13538,7 @@
       <fInitialDragCoeff value="7.750000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.100000" z="-0.175000" />
-      <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.300000" />
@@ -13601,7 +13602,7 @@
       <fInitialDragCoeff value="8.200000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.100000" y="1.200000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.18000" />
@@ -13664,7 +13665,7 @@
       <fInitialDragCoeff value="11.50000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.00000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.400000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="3" />
       <fInitialDriveForce value="0.210000" />
@@ -13727,7 +13728,7 @@
       <fInitialDragCoeff value="8.950000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.070000" z="-0.100000" />
-      <vecInertiaMultiplier x="1.000000" y="1.200000" z="1.300000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.300000" />
@@ -13791,7 +13792,7 @@
       <fInitialDragCoeff value="8.95000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="-0.250000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.300000" />
@@ -13855,7 +13856,7 @@
       <fInitialDragCoeff value="9.100000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.00000" />
-      <vecInertiaMultiplier x="1.000000" y="1.100000" z="1.000000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.270000" />
@@ -13918,7 +13919,7 @@
       <fInitialDragCoeff value="9.800000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.100000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.330000" />
@@ -13982,7 +13983,7 @@
       <fInitialDragCoeff value="10.500000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.00000" />
-      <vecInertiaMultiplier x="1.000000" y="1.100000" z="1.200000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.305000" />
@@ -14046,7 +14047,7 @@
       <fInitialDragCoeff value="11.4500" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.08000" />
-      <vecInertiaMultiplier x="1.000000" y="1.350000" z="1.40000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="1.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.29500" />
@@ -14111,7 +14112,7 @@
       <fInitialDragCoeff value="10.95000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="0.08500" />
-      <vecInertiaMultiplier x="1.000000" y="1.300000" z="1.35000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="1.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.315000" />
@@ -14176,7 +14177,7 @@
       <fInitialDragCoeff value="6.800000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.240000" />
@@ -14239,7 +14240,7 @@
       <fInitialDragCoeff value="5.500000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.200000" y="1.600000" z="1.700000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.210000" />
@@ -14302,7 +14303,7 @@
       <fInitialDragCoeff value="7.700000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
-      <vecInertiaMultiplier x="1.000000" y="1.800000" z="1.800000" />
+      <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.279000" />
