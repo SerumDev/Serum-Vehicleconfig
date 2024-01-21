@@ -551,11 +551,10 @@
           <type>VMT_HORN</type>
         </Item>
       </statMods>
-      <slotNames />
-      <liveryNames />
-      <livery2Names />
-</Item>
+      <slotNames> </slotNames>
+      <liveryNames> </liveryNames>
+      <livery2Names></livery2Names>
+    </Item>
   </Kits>
-<Lights>
-  </Lights>
-</CVehicleModelInfoVarGlobal> 
+  <Lights></Lights>
+</CVehicleModelInfoVarGlobal>
