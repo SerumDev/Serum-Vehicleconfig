@@ -55,13 +55,6 @@
         </Item>
         <Item>
           <identifier />
-          <modifier value="125" />
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <type>VMT_ENGINE</type>
-        </Item>
-        <Item>
-          <identifier />
           <modifier value="25" />
           <audioApply value="1.000000" />
           <weight value="5" />
@@ -551,8 +544,8 @@
           <type>VMT_HORN</type>
         </Item>
       </statMods>
-      <slotNames> </slotNames>
-      <liveryNames> </liveryNames>
+      <slotNames></slotNames>
+      <liveryNames></liveryNames>
       <livery2Names></livery2Names>
     </Item>
   </Kits>
